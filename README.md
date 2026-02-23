@@ -16,8 +16,8 @@ Step 2: Install the Jitsi React SDK
 
 Step 3: Import the JitsiMeeting Component
     In your App.js file, import the JitsiMeeting component:
-    javascript
-    import { JitsiMeeting } from '@jitsi/react-sdk';
+    
+     import { JitsiMeeting } from '@jitsi/react-sdk';
 
 bash:
     npm start
